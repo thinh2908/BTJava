@@ -8,4 +8,4 @@
 
 ![image](https://user-images.githubusercontent.com/40324340/137432678-ed44a166-71a5-4603-a953-38cf3ee7c6b1.png)
 
-+ BT2 : Sửa lỗi chương trình đã cho.
++ BT2 : Tìm lỗi chương trình đã cho.
