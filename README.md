@@ -1,6 +1,6 @@
 # BTJava
  
- Trang git nộp bài tập Java 2021 của Nguyễn Quốc Thịnh MSSV : 2021
+ Trang git nộp bài tập Java 2021 của Nguyễn Quốc Thịnh MSSV : 18200245
  
  <b>Tuần 1 :</b>Chuẩn hoá câu "lop hoc  java . bat daU luc muoi hai gio" <br>
  <b>Tuần 2 :</b>
