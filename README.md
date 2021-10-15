@@ -1,18 +1,11 @@
 # BTJava
  
  Trang git nộp bài tập Java 2021 của Nguyễn Quốc Thịnh MSSV : 2021
- Tuần 1 : BT9 Chuẩn hoá câu "lop hoc  java . bat daU luc muoi hai gio"
- Tuần 2 :
+ 
+ <b>Tuần 1 :</b>Chuẩn hoá câu "lop hoc  java . bat daU luc muoi hai gio" <br>
+ <b>Tuần 2 :</b>
  + BT1 : In ra màn hình :
 
-0123456789 9876543210
-01234567     76543210
-012345         543210
-0123             3210
-01                 10
-0123             3210
-012345         543210
-01234567     76543210
-0123456789 9876543210
+![image](https://user-images.githubusercontent.com/40324340/137432678-ed44a166-71a5-4603-a953-38cf3ee7c6b1.png)
 
-+ BT2 : Sửa lỗi chương trình đã cho:
++ BT2 : Sửa lỗi chương trình đã cho.
