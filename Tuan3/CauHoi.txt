@@ -1,0 +1,1 @@
+Overloading có thể trả về giá trị khác nếu khác paramater được đưa vào là khác nhau. Không thể overloading một hàm trả về với tham số khác nhau nếu nó có cùng paramater
